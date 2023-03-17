@@ -1,0 +1,22 @@
+*{
+    background-image: url("/jnr.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+body{
+    
+    font: 100%;
+    margin: 20px;
+    line-height: 26px;
+}
+
+#top{
+    background-color:red;
+    color: blue;
+    padding: 15px;
+}
+
